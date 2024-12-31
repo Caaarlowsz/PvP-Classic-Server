@@ -1,1 +1,4 @@
-aliases: []
+aliases:
+  gm:
+  - 'gamemode $1-'
+  setworldspawn: []
